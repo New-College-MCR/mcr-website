@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "New College MCR"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 
@@ -19,11 +19,11 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo-mobile.svg2"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/logo.svg2"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "New College MCR"
 
   [params.seo]
     meta_twitter_site = "@zerostaticio"
@@ -43,7 +43,7 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-      name = "Team"
+      name = "Committee"
       url = "/team/"
       weight = 2
 

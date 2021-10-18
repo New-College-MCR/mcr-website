@@ -1,12 +1,12 @@
 ---
-title: "Accounting"
+title: "Bike Rental"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Having a bike can be essential. To provide help to new arrival or in the case of a broken bike, the MCR has a number of shared bikes available.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

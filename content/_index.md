@@ -1,12 +1,12 @@
 ---
 title: 'Homepage'
-meta_title: 'Hugo Serif Theme'
-description: "Serif is a modern business theme for Hugo."
+meta_title: 'New College MCR'
+description: "The website of the New College MCR"
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# New College MCR
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+The Middle Common Room of New College represents all graduate students at New College, one of the oldest colleges at the University of Oxford

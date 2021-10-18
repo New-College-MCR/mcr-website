@@ -1,18 +1,16 @@
 ---
-title: "Mergers"
-date: 2018-11-28T15:15:34+10:00
+title: "The Pavilion "
+date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
-weight: 4
+weight: 5
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+The MCR facilities are housed in what looks like a cricket pavilion, containing a common space with a bar as well as our TV room. 
 
-## Ne verba patulosque numen vix libet
+## TV room
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
+Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
 male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
@@ -23,13 +21,14 @@ male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 5. Ardua non igne caelesti coniugis cognovi diversorum
 6. Per nunc pariterque saeva vindicet
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
+Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
 dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Borrowing
 
+### Books
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
 licet! Inserui quamvis Clymeni.
@@ -41,10 +40,14 @@ licet! Inserui quamvis Clymeni.
 - Ambo videtque gerat aquae ferens vagina
 - Adde leviter faciam tetigisse regunt concava in
 
+### Board Games
+
 Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
 incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
 vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
 parte](#dissipat) indignata supera.
+
+### Instruments
 
 Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem

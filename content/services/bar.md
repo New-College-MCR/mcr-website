@@ -1,15 +1,12 @@
 ---
-title: "Tax Preperation"
+title: "The Bar"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 6
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+We have the (arguably) cheapest bar in Oxford, run by the community, always providing a good time as well as a wide variety of alcoholic and non-alcoholic beverages. 
 
 - Nata perque
 - Et ferrugine laedam
