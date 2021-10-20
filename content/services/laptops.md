@@ -1,19 +1,20 @@
 ---
-title: "Emergency Laptops"
+title: "Emergency Support"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 draft: false
 weight: 2
 ---
 
-Nothing is scarier than a broken laptop just before an important deadline. The MCR has bought a few laptops that can be borrowed from IT. 
+Nothing is scarier than a broken laptop just before an important deadline, or sudden costs exceeding the budget.
 
-## How to get them
+## Laptop Borrowing Scheme
+### How to get them
 
 Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
 lassavit nihil oracula exiguo ligatis.
 
-## Conditions
+### Conditions
 
 Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
 manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
@@ -24,3 +25,7 @@ Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
 est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
 _congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
 cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+
+
+## Emergency Funding
+... Sheena

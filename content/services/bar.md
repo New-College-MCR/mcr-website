@@ -8,19 +8,23 @@ weight: 6
 
 We have the (arguably) cheapest bar in Oxford, run by the community, always providing a good time as well as a wide variety of alcoholic and non-alcoholic beverages. 
 
-- Nata perque
-- Et ferrugine laedam
-- Cedere tandem Atlante maiestas Italicis ut forma
+![Bar](/images/nc/bar.jpg)
 
-Levat austroque ilia castos, postquam petit confessis ad caput, ille rerum
-precor facitote nubemque. Potuit Celadon Martem?
+## Opening Hours
 
-1. Imagine Assaracus victori petet femina mea haustos
-2. Sicaniam quibus agro magni
-3. In utque Troica pedum caelestia hunc tempto
-4. Gregibus certare tamen turbatque qui
+The bar opens regularly Wednesdays and Saturdays, and after various special events. 
 
-## Patulis Veneris est expulit adversaque magnum mediaque
+## Price List
+
+[Price List](/docs/New_MCR_Bar_Pricelist.pdf)
+<!-- <object data="docs/New_MCR_Bar_Pricelist.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="docs/New_MCR_Bar_Pricelist.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="docs/New_MCR_Bar_Pricelist.pdf">Download PDF</a>.</p>
+    </embed>
+</object> -->
+
+
+## Become a volunteer
 
 Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
 subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,

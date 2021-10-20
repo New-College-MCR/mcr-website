@@ -4,13 +4,14 @@ date: 2018-02-22T17:01:34+07:00
 layout: contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+### General Enquiries 
+[mcr.president@new.ox.ac.uk](mailto:mcr.president@new.ox.ac.uk)
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Sunday    | Closed          |
+### Ads for Newsletter
+[mcr.secretary@new.ox.ac.uk](mailto:mcr.secretary@new.ox.ac.uk)
+
+### Welfare Support 
+[mcr.welfare@new.ox.ac.uk](mailto:mcr.welfare@new.ox.ac.uk)
+
+### Social events
+[mcr.social@new.ox.ac.uk](mailto:mcr.social@new.ox.ac.uk)

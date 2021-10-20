@@ -2,7 +2,7 @@
 title: 'Homepage'
 meta_title: 'New College MCR'
 description: "The website of the New College MCR"
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/nc/garden_quad.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
