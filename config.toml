@@ -21,7 +21,7 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo/logo-mobile.svg2"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg2"
+    desktop = "images/logo/logo.svg"
     desktop_height = "36px"
     alt = "New College MCR"
 
@@ -42,10 +42,10 @@ theme = "hugo-serif-theme"
     url = "/services/"
       weight = 1
 
-  [[menu.main]]
-      name = "Committee"
-      url = "/team/"
-      weight = 2
+    [[menu.main]]
+        name = "Committee"
+        url = "/team/"
+        weight = 2
 
   [[menu.main]]
       name = "About"
