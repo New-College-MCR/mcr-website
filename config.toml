@@ -20,9 +20,9 @@ theme = "hugo-serif-theme"
 
   [params.logo]
     mobile = "images/logo/logo-mobile.svg"
-    mobile_height = "36px"
+    mobile_height = "45px"
     desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    desktop_height = "50px"
     alt = "New College MCR"
 
   [params.seo]
