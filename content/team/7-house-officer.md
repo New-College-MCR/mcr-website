@@ -5,7 +5,7 @@ draft: false
 image: "images/team/SD.jpg"
 jobtitle: "House Officer"
 promoted: true
-weight: 6
+weight: 7
 ---
 
 Siddhartha is pursuing a DPhil in Computer Science, robustifying neural network architecture against hurting others (and sometimes itself). When not working in the Wolfson Building, you will find him working in the MCR Spoom, working in the TV room, working … the pandemic closed all the fun stuff in Oxford, you get the picture. In another time and land, Sidd takes aerial photographs of cities and scenery with drones, proving once more that it is talent, not technology, that makes good art.

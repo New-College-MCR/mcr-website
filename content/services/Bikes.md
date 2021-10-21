@@ -1,9 +1,9 @@
 ---
-title: "Bike Rental"
+title: "Bike Scheme"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 1
+weight: 7
 ---
 
 Having a bike can be essential. To provide help to new arrival or in the case of a broken bike, the MCR has a number of shared bikes available.

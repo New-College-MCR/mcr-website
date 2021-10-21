@@ -5,7 +5,7 @@ draft: false
 image: "images/team/VB.jpg"
 jobtitle: "Welfare Officer"
 promoted: true
-weight: 7
+weight: 8
 ---
 
 Veerle is a fourth-year DPhil student in Biomedical Engineering, where she looks into the application of microbubbles and ultrasound in immunotherapy. Next to her degree, she can be found doing all kinds of sports, including running, hockey, tennis and rowing.
