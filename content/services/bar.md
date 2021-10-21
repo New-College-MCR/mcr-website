@@ -3,7 +3,7 @@ title: "The Bar"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 6
+weight: 5
 ---
 
 We have the (arguably) cheapest bar in Oxford, run by the community, always providing a good time as well as a wide variety of alcoholic and non-alcoholic beverages. 

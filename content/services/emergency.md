@@ -6,7 +6,16 @@ draft: false
 weight: 2
 ---
 
-Nothing is scarier than a broken laptop just before an important deadline, or sudden costs exceeding the budget.
+Nothing is scarier than having an emergency and being short on money, or having a broken bike or a laptop. 
+
+- [Bike Borrowing Scheme](#bike-borrowing-scheme)
+- [Laptop Borrowing Scheme](#laptop-borrowing-scheme)
+  - [How to get them](#how-to-get-them)
+  - [Conditions](#conditions)
+- [Solidarity Fund](#solidarity-fund)
+- [Emergency Funding](#emergency-funding)
+
+## Bike Borrowing Scheme
 
 ## Laptop Borrowing Scheme
 ### How to get them
