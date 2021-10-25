@@ -33,7 +33,7 @@ theme = "hugo-serif-theme"
     summary_large_truncate = 370  # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'New College MCR | Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 [menu]
   # Main Menu
@@ -59,7 +59,7 @@ theme = "hugo-serif-theme"
 
   [[menu.main]]
       name = "Contact"
-      url = "/contact/"
+      url = "/contact_college/"
       weight = 6
 
   # Footer Menu
@@ -70,5 +70,5 @@ theme = "hugo-serif-theme"
 
   [[menu.footer]]
     name = "Contact"
-    url = "/contact/"
+    url = "/contact_college/"
       weight = 2
