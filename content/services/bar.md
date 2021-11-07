@@ -17,31 +17,24 @@ The bar opens regularly Wednesdays and Saturdays, and after various special even
 ## Price List
 
 [Price List](/docs/New_MCR_Bar_Pricelist.pdf)
-<!-- <object data="docs/New_MCR_Bar_Pricelist.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="docs/New_MCR_Bar_Pricelist.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="docs/New_MCR_Bar_Pricelist.pdf">Download PDF</a>.</p>
-    </embed>
-</object> -->
+
 
 
 ## Become a volunteer
 
-Omnis est signa cum nec inplevit vivit et insania Orpheu, an abit. Nimbi
-subversaque et micant suumque, tibi ipse; sed. **Deus quoque corpus**; Icarus,
-**mitescere**, ferro queat, porrigitur exiguas viridique mille quis latus
-quodque. Non una genuisse ullis efficiet ad corpore nunc mentesque praestant?
+You’ve sampled our abundant collection of drinks, but feel like you still have more to contribute?
 
-_Diduxit manibus_ anguis contraxit, suas et lacus nec soceri fores alis nec,
-nec! Data pater Perseu minanti animam operitur illa dolorem.
+… Then sign-up to be a MCR bar volunteer!
 
-Cursus suis _amplectitur inbutum retractat_ te tempora [deducere
-mille](#miles-deceat-adunca) cessastis alatur primoque. Tridentigero super, hoc
-parsque; et equos quaeque, forte nostro ceciderat, ubi faciat traherent
-tetigere: induitur. Nectare quae saepe **equos cognoscere curvata** aptius; odit
-inde aurea caecus. Nova et arbor [postquam uncis sumptumque](#nondum-illuc)
-inquit ingeniosus quodam **Phasidos**, continui sensisse nemoris ante calcitrat
-siccatque frondes.
+Bar volunteers need to be bar trained in order to work the bar at bar nights and bops. Training takes around 30 min. and there is no minimum commitment - you can volunteer as many (or as few) times as you’d like!
 
-Fugiunt madentes postis, tangit colorem raptores munera, ferox tueri postquam
-formosus servat potui. Luce ebur, pulcherrimus plus tradere! _Quam perque
-semper_?
+__Why should I volunteer?__
+
+To quote the best song to come out of Norway in the 20th C and the unofficial motto of the bar “Beer, Beer and more Beer - it’s the most beautiful thing I know” (https://www.youtube.com/watch?v=HJOAvmQ7FW0)
+
+In all seriousness - It’s a load of fun, and a great way to get involved with the MCR community, bar volunteers also have the privilege of free drinks (within reason!!!) while they are on shift. 
+
+__‘Where can I sign up?’, you ask!__
+
+Put your name down on this spreadsheet:
+
