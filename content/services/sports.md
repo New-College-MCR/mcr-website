@@ -46,6 +46,8 @@ giulia.bernardini@new.ox.ac.uk
 We are lucky enough to have one of the best college Sports Ground in the whole university, which is maniacally well-kept by our trusted team of groundsmen and is equipped with all sorts of sporting goods thanks to the efforts of the MCR and JCR committees.
 
 Whether you live in the postgraduate accommodation at the Weston Buildings or not, make sure to check it out! For more info on what's available, you can consult the 'Equipment' and 'Facilities' pages.
+
+To book the New College sports facilities, use the [Sports Facilites Booking System](https://outlook.office365.com/owa/calendar/NewCollegeSportsFacilities@UniOxfordNexus.onmicrosoft.com/bookings/)
  
 ## MCR Committee presents: the Sports Rep
 
