@@ -1,18 +1,16 @@
 ---
-title: "Academics"
+title: "Academic Life"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
 weight: 3
 ---
 
-
-
-**Table of Contents**
-- [Library services](#library-services)
-- [Suspension](#suspension)
+New College supports a lovely, tranquil environment for students of many disciplines. No matter your learning style or pursuit in life, you will find inspiration in the cloisters or dining halls when not in our library of rich history and knowledge.
 
 ## Library services
+
+![Library](/images/nc/library.jpeg)
 
 <b>Library Opening Hours</b>
 

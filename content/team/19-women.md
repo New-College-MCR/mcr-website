@@ -1,13 +1,9 @@
 ---
-title: "Valentino Gargano"
+title: "Noemie Polverini"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/default.png"
-jobtitle: "Arts & Culture"
+jobtitle: "Women's officer"
 promoted: true
-weight: 17
+weight: 12
 ---
-
-
-
-

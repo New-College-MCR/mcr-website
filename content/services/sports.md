@@ -73,11 +73,7 @@ If the only thing you are missing is someone to do sports with, we have the righ
 
 ## Sports buddy scheme: find players at New College
 
-Don't know who to play with? No worries, the MCR has got you covered. Share your details on this form to find other people to play with at New College: 
-
-
-    https://docs.google.com/spreadsheets/d/1NxIWvzlMAu6AJ0XqlDaGDFxw-Ckj4b7p1WS4GTxrSQE/edit#gid=0
-
+Don't know who to play with? No worries, the MCR has got you covered. Share your details on [this form](https://docs.google.com/spreadsheets/d/1NxIWvzlMAu6AJ0XqlDaGDFxw-Ckj4b7p1WS4GTxrSQE/edit#gid=0) to find other people to play with at New College: 
 
 
 
@@ -121,7 +117,7 @@ The gym equipment can be picked up and signed off from the white shelving unit n
 
 If you think we are missing anything of relevance, ask the MCR Sports Rep to buy it for you (giulia.bernardini@new.ox.ac.uk). We have an annual budget to be spent on all-things-sports, so don't be shy. Due to insurance reasons we cannot provide heavier weights/kettlebells.
 
-[last updated: July 2021]
+[Last updated: July 2021]
 
 
 

@@ -25,15 +25,8 @@ theme = "hugo-serif-theme"
     desktop_height = "50px"
     alt = "New College MCR"
 
-  [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
-
   [params.team]
-    summary_large_truncate = 370  # How many characters to include in the summary of the team bios (large layout) before truncating
-
-  [params.footer]
-    copyright_text = 'New College MCR | Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    summary_large_truncate = 1500  # How many characters to include in the summary of the team bios (large layout) before truncating
 
 [menu]
   # Main Menu

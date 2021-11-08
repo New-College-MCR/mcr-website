@@ -15,11 +15,14 @@ weight: 3
 
 ## General E&D support
 
+To be updated very soon!
+
 ## Women's Support 
-Events, Dinner
+
+To be updated very soon!
 
 ## LGBTIQ+ Support 
-Events, Dinner
 
+To be updated very soon!
 
 
