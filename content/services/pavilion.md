@@ -24,9 +24,9 @@ You'll find a piano in the corner, a doorway to the MCR Kitchen (beholding the s
 
 ## TV room
 
-![Bar](/images/nc/tv-room.jpg)
+![TV-Room](/images/nc/tv-room.jpg)
 
-After several refurbishment iterations, we finally nailed the perfect vibe for you and your homies when you walk in and crash on the bouncy, comfy red couches, plopped right in front of a 40?+ 50?+ 60?+ inch TV. Your leisure can range from something as simple as watching a movie or TV show on a great sound system to playing from our selection of video games. 
+After several refurbishment iterations, we finally nailed the perfect vibe for you and your homies when you walk in and crash on the bouncy, comfy red couches, plopped right in front of a nice TV. Your leisure can range from something as simple as watching a movie or TV show on a great sound system to playing from our selection of video games. 
 The room is also the main access point for borrowing various items (details found [here](/services/borrowing/)).
 
 

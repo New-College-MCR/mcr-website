@@ -35,5 +35,5 @@ In all seriousness - It’s a load of fun, and a great way to get involved with 
 
 __‘Where can I sign up?’, you ask!__
 
-Put your name down on [this spreadsheet](https://docs.google.com/spreadsheets/d/1-fhhQ_e5MMjd-te1RmpoNEzpAGtgCLS3/edit?usp=sharing&ouid=103938516984591732073&rtpof=true&sd=true)!
+Put your name down on 
 
