@@ -10,24 +10,11 @@ New College has one of the largest sports grounds in Oxford, and they are conven
 
 ![Bar](/images/nc/sports.jpg)
 
-- [All you need to know, from croquet to e-Sports](#all-you-need-to-know-from-croquet-to-e-sports)
-- [The Weston Sports Ground](#the-weston-sports-ground)
-- [MCR Committee presents: the Sports Rep](#mcr-committee-presents-the-sports-rep)
-- [The TV room: e-Sports, sport channels subscriptions, live sport events...](#the-tv-room-e-sports-sport-channels-subscriptions-live-sport-events)
-- [Sports buddy scheme: find players at New College](#sports-buddy-scheme-find-players-at-new-college)
-- [Equipment](#equipment)
-  - [Sports equipment at Weston Pavilion (MCR)](#sports-equipment-at-weston-pavilion-mcr)
-  - [List of current equipment](#list-of-current-equipment)
-  - [GYM EQUIPMENT:](#gym-equipment)
-- [Iffley Sports Centre subscription](#iffley-sports-centre-subscription)
-
 ## All you need to know, from croquet to e-Sports
 
 Sports are a vital part of college life at New in general and for the MCR in particular, since our common room (located at the Sports Pavilion) is right beside the college's Sports Ground.
 
 Whether you are a seasoned sport enthusiast or a newbie, we hope that you will make good use of the facilities and equipment available to you for free. It is never too late to pick up a new sport or start again an old sport that you had stopped doing. You will find that a lot of fellow MCR members are in the same position as you, and a Sports Grounds like ours is a great incentive to start.
-
-Below is a general introduction to what you will find waiting for you at the MCR. For more details, check out the other pages in the Sports tab above.
 
 If you have any question, feedback or suggestion, feel free to get in touch with the MCR Sports Rep in person or via email (to find out who they are, check the MCR Committee page on this website!). We hope you enjoy your time at New College!
  
@@ -41,13 +28,40 @@ Vice-Admiral of Punts & MCR Sports Rep 2020-21
 giulia.bernardini@new.ox.ac.uk
 
  
-## The Weston Sports Ground
+## The Weston Sports Ground & Facilities
 
-We are lucky enough to have one of the best college Sports Ground in the whole university, which is maniacally well-kept by our trusted team of groundsmen and is equipped with all sorts of sporting goods thanks to the efforts of the MCR and JCR committees.
+We are lucky enough to have one of the best college Sports Ground in the whole university, which is maniacally well-kept by our trusted team of groundsmen and is equipped with all sorts of sporting goods thanks to the efforts of the MCR and JCR committees. Whether you live in the postgraduate accommodation at the Weston Buildings or not, make sure to check it out! 
 
-Whether you live in the postgraduate accommodation at the Weston Buildings or not, make sure to check it out! For more info on what's available, you can consult the 'Equipment' and 'Facilities' pages.
+The Sports Ground includes the following: 
 
-To book the New College sports facilities, use the [Sports Facilites Booking System](https://outlook.office365.com/owa/calendar/NewCollegeSportsFacilities@UniOxfordNexus.onmicrosoft.com/bookings/)
+- Basketball/tennis hard court
+- Cricket training net
+- Football goals and pitches (of various sizes)
+- Petanque/boules sand court
+- Indoor squash court
+- Erg room/indoors gym
+- Croquet lawn
+- Table tennis and table football (indoors)
+
+Additionally, from the beginning of Trinity Term (as soon as the weather allows) until mid-August the sports ground also hosts the following:
+
+- Tennis grass courts (up to 5)
+- Punts
+
+To book the New College sports facilities, use the [Sports Facilites Booking System](https://outlook.office365.com/owa/calendar/NewCollegeSportsFacilities@UniOxfordNexus.onmicrosoft.com/bookings/). 
+Once you have completed your booking, you will need to go to the WESTON PORTERS LODGE to pick up keys/fobs to access the facilities (this does not apply to grass courts). This means that some of the sports facilities can only be accessed during WESTON LODGE OPENING TIMES. Furthermore, every court comes with its own rules that are specified on the booking calendar (for example, you can only use the squash court wearing non-marking shoes).
+ 
+## Rules on the use of New College facilities
+
+- For the time being, due to university-wide covid-related restrictions, access and use of the facilities is restricted to New College members only. No visitors allowed.
+
+- It is STRICTLY FORBIDDEN to bring any sort of glass container on the pitch for safety reasons. 
+
+- The Sports Ground is a no smoking area. Smoking is only allowed in the designated area next to the bin shed.
+
+- Access and use of the facilities is checked through bod card access and CCTV. Misusing or damaging the MCR facilities could result in a fine and in a ban from accessing shared spaces.
+
+- If you are organising an event/match for more than 10 people, you need to have a chat with the groundsmen (a heads up to the MCR Sports Rep is also very much appreciated). The Groundsmen Office is in the Pavilion facing the Sports Ground, right next to the BBQ.
  
 ## MCR Committee presents: the Sports Rep
 
@@ -104,7 +118,7 @@ Below is a list of items available at the MCR. As per above, you can find all of
 
 During the summer, the table is located behind the bins shed just outside the Pavilion. For the rest of the year, you will find the table tennis in the ERG room (if you would like to use it there, remember to book a slot - instructions below). Remove the plastic cover, move the table to a suitable spot, set up the net and play anytime you like. When you're done you're kindly asked to put everything back where you found it and sanitise it.
 
-In addition to all of this, we also provide a wide range of gym equipment that you can borrow for workouts at home or in the ERG room. Just fill the sign-up form (here: http://tinyurl.com/new-mcr-gym) and you can take the equipment home with you anytime you like or use it in the ERG room if you booked a slot (for more info on how to use the ERG room, check the 'Facilities' page).
+In addition to all of this, we also provide a wide range of gym equipment that you can borrow for workouts at home or in the ERG room. Just fill the sign-up form [here](http://tinyurl.com/new-mcr-gym) and you can take the equipment home with you anytime you like or use it in the ERG room if you booked a slot.
 
 The gym equipment can be picked up and signed off from the white shelving unit next to the entrance of the TV room.
  
@@ -116,8 +130,6 @@ The gym equipment can be picked up and signed off from the white shelving unit n
 - Light dumbbells set (1kg / 1.5kg / 2kg / 3kg) x2 of each
 
 If you think we are missing anything of relevance, ask the MCR Sports Rep to buy it for you (giulia.bernardini@new.ox.ac.uk). We have an annual budget to be spent on all-things-sports, so don't be shy. Due to insurance reasons we cannot provide heavier weights/kettlebells.
-
-[Last updated: July 2021]
 
 
 
