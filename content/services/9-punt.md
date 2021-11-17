@@ -3,7 +3,7 @@ title: "Punting"
 date: 2018-11-28T15:14:54+10:00
 featured: false
 draft: false
-weight: 5
+weight: 9
 ---
 
 Ahoy, intrepid sailors and fearless canalfarers! It is your Vice Admiral of Punts speaking.
@@ -77,38 +77,32 @@ With each punt you are allocated one paddle, one pole and 4 cushions. There is a
 
 This lock is not key-operated! There is a combination lock on the punt shed. Ask the porters for the 4 digit code.
      
-
 **Step 3: Unlock your paddle and pole**
 - The equipment racks are labelled 1 to 5 corresponding to your punt number 
 - The same key on your duck unlocks both the corresponding paddle and pole - it will not unlock any of the other equipment  
 - Before use, please disinfect both paddle and pole with the provided cleaning supplies.  
      
-
 **Step 4: Choose your cushions** 
 
 - Take four cushions from the storage racks at the back of the punt shed and disinfect them as well.   
 - Two larger sized cushions are appropriate for sitting on, and two of the smaller sized cushions are used for resting against the seat backs  
 - Please resist the urge to take more cushions because there are only enough for four per punt  
      
-
 **Step 5: Close the punt shed** 
 - All the padlocks should remain within the shed so lock them back as you found them onto the correct latches  
 - Remember to lock the punt shed doors with the combination lock  
      
-
 **Step 6: Unmoor your punt**
 - It is much easier to board your punt and set up your cushions, snacks and booze while the punt is still moored to the bank  
 - The last person should unlock the punt chain with the second key on your duck 
 - Please relock the padlock to the mooring rings rather than taking them on the punt because they will inevitably get lost!  
      
-
 **Step 7: Returning the equipment** 
 - Please clean the equipment used after use. Seat pads, poles etc need to be cleaned after use with disinfectant spray, dried with paper towels and all rubbish disposed yourselves.
 - The paper bin in the shed is used to trash used paper towels ONLY. Other garbage can be disposed of at the bin shed beside the MCR Pavilion.
 - Please lock everything back up as you found it when you return from your punting sessions including the punt shed doors  
 - You can moor your punt to any of the rings, but the paddles and poles MUST be placed back in the appropriate latch of the corresponding punt number  
      
-
 Happy punting!
 
  

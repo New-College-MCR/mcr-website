@@ -23,15 +23,15 @@ College also supplements its graduate accommodation by renting 16 rooms in block
 
 Returning graduates (i.e. non-freshers) have the opportunity to apply for college accommodation each year.The ballot is fundamentally run by college, but the MCR secretary (see Committee page) liases with college and passes on the relevant information to the MCR.
 
-Typically around the end of March, you will receive an email containing within it an application form for the housing ballot along with (hopefully) all the relevant details. The deadline for the ballot application itself will be approximately 2 weeks later, around or just before the start of Trinity Term.
+Typically around the middle of Hilary, you will receive an email containing within it an application form for the housing ballot along with (hopefully) all the relevant details. The deadline for the ballot application itself will be approximately 2 weeks later.
 
-Usually there are around 25 rooms reserved for returning graduates; the rest are mostly for incoming freshers. These rooms are distributed between Weston and Castle Mill (see main accommodation page for further details on these locations). If you don't initially get a room, do not despair: you will be placed on a waiting list, and it is relatively common for a number of people with rooms to later pull out.
+Usually there are around 13 rooms reserved for returning graduates; the rest are mostly for incoming freshers. These rooms are distributed between Weston and Castle Mill (see main accommodation page for further details on these locations). If you don't initially get a room, do not despair: you will be placed on a waiting list, and it is relatively common for a number of people with rooms to later pull out.
 
 Your position on the ballot will depend on how many years you have already lived in college accommodation, with priority given to those who have never lived in college. The highest priority is given to students entering their final year who have never lived in college accommodation.
 
 Whilst it is generally not encouraged, it is possible if necessary to withdraw from the ballot. It is, however, much harder to do the reverse.
 
-For questions about the ballot itself, feel free to contact the MCR secretary. For any questions about accommodation, your best bet is to contact college (Emily Meeson, Sue Fisher) directly, although the MCR house officer will be happy to help if possible.
+For questions about the ballot itself, feel free to contact the MCR secretary. For any questions about accommodation, your best bet is to contact college (Emily Meeson) directly, although the MCR house officer will be happy to help if possible.
 
 
 ## Weston Lodge
