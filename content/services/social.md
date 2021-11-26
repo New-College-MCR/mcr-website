@@ -6,7 +6,17 @@ draft: false
 weight: 3
 ---
 
-Each term, the MCR offers various events for members to come together. 
+Each term, the MCR offers various events for members to come together. You can learn about these events on our Facebook page or via email (see [here for details](/college/communication/)).
+
+- [MCR Events](#mcr-events)
+  - [Exchange Dinners](#exchange-dinners)
+  - [Guest Nights](#guest-nights)
+  - [Second Desserts](#second-desserts)
+  - [BOPs](#bops)
+  - [Karaoke Nights](#karaoke-nights)
+  - [Tastings](#tastings)
+  - [Garden Party](#garden-party)
+- [Organize your own event](#organize-your-own-event)
 
 # MCR Events
 
