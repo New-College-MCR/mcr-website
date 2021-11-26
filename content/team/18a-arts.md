@@ -3,7 +3,7 @@ title: "Giulia Bernardini (she/they)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/GB.jpg"
-jobtitle: "Arts & Culture"
+jobtitle: "Arts & Culture Rep, Memelord of the MCR"
 promoted: true
 weight: 17
 ---

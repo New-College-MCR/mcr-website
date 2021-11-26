@@ -12,4 +12,9 @@ date: 2018-02-22T17:01:34+07:00
 
 [Meal Costs](https://www.new.ox.ac.uk/battels)
 
-[Clore Music Studios](https://intranet.new.ox.ac.uk/secure/booking2/venue.asp?tid=1)
+[Clore Music Studios Booking](https://intranet.new.ox.ac.uk/secure/booking2/venue.asp?tid=1)
+
+[Map of New College](/docs/NC-map.pdf)
+
+[Fresher's Guide 2021](/docs/New_College_MCR_Freshers_Guide_2021_0.pdf)
+

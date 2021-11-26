@@ -8,5 +8,5 @@ promoted: true
 weight: 12
 ---
 
-
+Aidan is a DPhil in Chemistry, focusing on quantum chemical modelling of inorganic systems. When not wondering why his code has inexplicably produced imaginary numbers, he is usually waking up at dawn for rowing outings, kicking a football against a wall while reminding himself of Einstein’s definition of insanity or sobbing over Newcastle United’s most recent result.
 

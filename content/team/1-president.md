@@ -10,5 +10,3 @@ weight: 1
 
 Nico studies MPhil in International Relations. She spends her time attempting to theorise big and small things of social realities. Nico was born in China and later immigrated to Canada. In addition to being active in MCR, Nico is a founder of the Oxford Diplomatic Society. She loves nice chats over long breakfast, and long walks after lunch.
 
-As President, Nico represents New College MCR members in relation to the College and Uni. Everyone is encouraged to reach out to Nico regarding anything about College life.
-

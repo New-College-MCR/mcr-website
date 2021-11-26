@@ -6,7 +6,13 @@ featured: true
 weight: 6
 ---
 
-The main site of college is beautiful, and offers many places to exist and enjoy, as well as various music facilities.
+The main site of college is beautiful, and offers many places to exist and enjoy, as well as various music facilities. For a map of our beautiful college see [here](/docs/NC-map.pdf)
+
+- [Cloisters](#cloisters)
+- [Chapel](#chapel)
+- [Gardens](#gardens)
+- [Clore Music Studios](#clore-music-studios)
+- [JCR](#jcr)
 
 ## Cloisters
 

@@ -1,4 +1,3 @@
-
 ---
 title: "Communication"
 date: 2018-11-18T12:33:46+10:00
@@ -8,6 +7,9 @@ weight: 3
 ---
 
 Coming to a new place and making new friends requires a way to communicate, which these days mostly happens via the internet. 
+
+- [Internet Access](#internet-access)
+- [Email](#email)
 
 ## Internet Access
 
@@ -21,7 +23,7 @@ As part of the MCR you will be added to the college run email list new-mcr@corel
 
 There is a second list, newmcr-l@maillist.ox.ac.uk [New-MCR-Social] which is maintained by the MCR student committee, and you should contact the secretary if you are having problems receiving these emails. 
 
-__How to join:__ Send an email to [ympa@maillist.ox.ac.uk](mailto:sympa@maillist.ox.ac.uk)
+__How to join:__ Send an email to [sympa@maillist.ox.ac.uk](mailto:sympa@maillist.ox.ac.uk)
 
-In the subject line of your message, type in: subscribe newmcr-l Firstname Name (indicate your own first name and name). You can leave the message body blank.
+In the subject line of your message, type in: _subscribe newmcr-l Firstname Name_ (indicate your own first name and name). You can leave the message body blank.
 For more information about the Oxford mailing list system (which a number of societies and departments use as well) see https://web.maillist.ox.ac.uk/ox/help/user

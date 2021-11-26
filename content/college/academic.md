@@ -8,6 +8,9 @@ weight: 3
 
 New College supports a lovely, tranquil environment for students of many disciplines. No matter your learning style or pursuit in life, you will find inspiration in the cloisters or dining halls when not in our library of rich history and knowledge.
 
+- [Library services](#library-services)
+- [Suspension](#suspension)
+
 ## Library services
 
 ![Library](/images/nc/library.jpeg)

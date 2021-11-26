@@ -8,6 +8,12 @@ weight: 1
 
 New College typically accommodates most of its graduates for their first year, with a reasonable chance of a second year in college accommodation. In particular, non-UK graduates will almost always be housed in college accommodation for their first year. Oxford University graduates are not guaranteed accommodation in college but will often still be offered housing for their first year.
 
+- [Living in college](#living-in-college)
+  - [Weston buildings](#weston-buildings)
+  - [Castle Mill](#castle-mill)
+- [Graduate Housing Ballot](#graduate-housing-ballot)
+- [Weston Lodge](#weston-lodge)
+
 ## Living in college
 
 New College has graduate accommodation at 2 different sites: the Weston Buildings and Castle Mill.

@@ -13,6 +13,7 @@ New College is dedicated to ensuring your health needs are fulfilled. The MCR, C
 - [College Nurse](#college-nurse)
 - [College Dentist](#college-dentist)
 - [Sexual Health](#sexual-health)
+- [Useful links related to Health](#useful-links-related-to-health)
 
 
 ## College Doctors

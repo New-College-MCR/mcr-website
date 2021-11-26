@@ -3,7 +3,7 @@ title: "Valentino Gargano"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/VG.jpg"
-jobtitle: "Arts & Culture"
+jobtitle: "Arts & Culture Rep"
 promoted: true
 weight: 17
 ---
