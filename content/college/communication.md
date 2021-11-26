@@ -11,6 +11,7 @@ Coming to a new place and making new friends requires a way to communicate, whic
 - [Email](#email)
   - [College Emails](#college-emails)
   - [Social Events Emails](#social-events-emails)
+- [Teams](#teams)
 - [Internet Access](#internet-access)
  
 ## Email
@@ -24,6 +25,11 @@ There is a second list, newmcr-l@maillist.ox.ac.uk [New-MCR-Social] which is mai
 __How to join:__ Send an email to [sympa@maillist.ox.ac.uk](mailto:sympa@maillist.ox.ac.uk).
 In the subject line of your message, type in: _subscribe newmcr-l Firstname Name_ (indicate your own first name and name). You can leave the message body blank.
 For more information about the Oxford mailing list system (which a number of societies and departments use as well) see https://web.maillist.ox.ac.uk/ox/help/user
+
+## Teams
+The MCR has a Microsoft Teams channel that hosts non-public information. To join, search your email inbox for the instructions, specifically for the join code starting with _wqp_.
+
+Notably, the Teams contains various helpful files, the social events calendar, and a notice board with external information. 
 
 
 ## Internet Access

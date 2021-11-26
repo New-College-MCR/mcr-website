@@ -20,6 +20,8 @@ Each term, the MCR offers various events for members to come together. You can l
 
 # MCR Events
 
+A list of upcoming MCR events can be found on our [MCR calendar](https://teams.microsoft.com/l/channel/19%3Abd90676feb6b4cb88e4cde55b595c40f%40thread.tacv2/tab%3A%3A57c43f0a-41a5-4b68-be66-dd692b386d8c?groupId=ced8ce2a-0b2e-4e6b-945e-757f8242ce1a&tenantId=cc95de1b-97f5-4f93-b4ba-fe68b852cf91) (teams link).
+
 ## Exchange Dinners
 These are occasions in which around 15 MCR members go to another college to have dinner with their MCR in one week, as well as host them at our college in another week. Each dinner is usually accompanied by pre-drinks, Second Desserts (more on that below), and a tour of the college. In the past, we’ve had exchanges with colleges such as Merton, St. John’s, and Nuffield!
 
