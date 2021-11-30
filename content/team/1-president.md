@@ -4,6 +4,7 @@ date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'images/team/NH.jpg'
 jobtitle: 'President'
+linkedinurl: Nico.Han@new.ox.ac.uk
 promoted: true
 weight: 1
 ---

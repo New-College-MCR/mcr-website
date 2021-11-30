@@ -26,7 +26,7 @@ theme = "hugo-serif-theme"
     alt = "New College MCR"
 
   [params.team]
-    summary_large_truncate = 1000  # How many characters to include in the summary of the team bios (large layout) before truncating
+    summary_large_truncate = 370  # How many characters to include in the summary of the team bios (large layout) before truncating
 
 [menu]
   # Main Menu

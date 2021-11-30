@@ -1,8 +1,9 @@
 ---
 title: 'The New Collection'
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
 ---
+
+<!-- Lets try add in an intro image -->
+<!-- ![Intro Image](/images/nc/garden_quad.jpg) -->
 
 # The New Collection
 
@@ -33,3 +34,18 @@ __Past Issues__
 * [2016 (Volume 11)](/docs/NewCollection2016.pdf)
 * [2017 (Volume 12)](/docs/NewCollection2017.pdf)
 * [2019 (Volume 13)](/docs/NewCollection2019.pdf)
+* [2020 (Volume 14)](/docs/NewCollection2020.pdf)
+
+&nbsp;
+
+__Selected readings__
+
+* [Anjuli Shere. Reading the Investigators Their Rights: A review of literature on the General Data
+Protection Regulation and open-source intelligence gathering and analysis. The New Collection, Vol. 14 (Aug., 2020), pp. 3-21](/docs/NewCollection2020_Shere.pdf)
+* [Alex Beeton. “Not infected with the vermine of the times”?: Commonwealth Educational Reform
+and the Parliamentary Visitation of Winchester College, 1649–50 (working paper). The New Collection, Vol. 14 (Aug., 2020), pp. 22-38](/docs/NewCollection2020_Beeton.pdf)
+* [Katherine New. Pushkin’s Mystification: Tatiana’s Letter, a Translation from French?. The New Collection, Vol. 14 (Aug., 2020), pp. 39-60](/docs/NewCollection2020_New.pdf)
+* [Matthew Rogers. Rapidly Integrating Vehicle Computers Using Simulation. The New Collection, Vol. 14 (Aug., 2020), pp. 61-67](/docs/NewCollection2020_Rogers.pdf)
+* [Sophie Nagler. A Defence of the Notion of ‘Foundedness’ in Carnap’s Aufbau. The New Collection, Vol. 14 (Aug., 2020), pp. 68-87](/docs/NewCollection2020_Nagler.pdf)
+
+
