@@ -18,3 +18,7 @@ date: 2018-02-22T17:01:34+07:00
 
 [Fresher's Guide 2021](/docs/New_College_MCR_Freshers_Guide_2021_0.pdf)
 
+[Data Sharing Agreement](/docs/DataSharingAgreement.pdf)
+
+[Privacy Policy](/docs/PrivacyPolicy.pdf)
+
