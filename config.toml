@@ -28,6 +28,9 @@ theme = "hugo-serif-theme"
   [params.team]
     summary_large_truncate = 370  # How many characters to include in the summary of the team bios (large layout) before truncating
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [menu]
   # Main Menu
   [[menu.main]]
@@ -49,6 +52,11 @@ theme = "hugo-serif-theme"
       name = "Useful Links"
       url = "/links/"
       weight = 4
+
+  [[menu.main]]
+      name = "Calendar"
+      url = "/calendar/"
+      weight = 5
 
   [[menu.main]]
       name = "Contact"
