@@ -4,7 +4,7 @@ date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/BRH.jpg"
 jobtitle: "Social Secretary"
-linkedinurl: ben.randhawa-hiscock@new.ox.ac.uk
+linkedinurl: mcr.social@new.ox.ac.uk
 promoted: true
 weight: 5
 ---
