@@ -1,7 +1,7 @@
 ---
 title: "Dorian Muntean (he/him)"
 date: 2018-11-19T10:47:58+10:00
-draft: false
+draft: true
 image: "images/team/DM.JPG"
 jobtitle: "First Year Rep"
 linkedinurl: Dorian.Muntean@new.ox.ac.uk

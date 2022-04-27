@@ -1,13 +1,13 @@
 ---
-title: "Siddhartha Datta"
+title: "Bana Alamad"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/SD.jpg"
+image: "images/team/BA.jpg"
 jobtitle: "House Officer"
-linkedinurl: Siddhartha.Datta@new.ox.ac.uk
+linkedinurl: bana.alamad@new.ox.ac.uk
 promoted: true
 weight: 7
 ---
 
-Siddhartha is pursuing a DPhil in Computer Science, and as House Officer, is committed to pampering and nurturing the Pavilion. His time goes to retaining a warm and positive atmosphere. This means keeping all the facilities clean and upgraded, providing new and exciting provisions for consumption or social use, and managing our MCR’s most precious asset.
+Bana is reading for a DPhil in Genomic Medicine and Statistics, a fancy way of essentially saying genetics. When she’s not attempting science Bana is usually painting, reading/ writing Arabic poetry, or making pottery mugs and pots.
 

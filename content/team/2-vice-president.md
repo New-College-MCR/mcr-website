@@ -1,12 +1,12 @@
 ---
-title: "Ufuk Altunbüken"
+title: "Ben Lagan"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/UA.jpg"
+image: "images/team/BL.jpg"
 jobtitle: "Vice President"
-linkedinurl: Ufuk.Altunbuken@new.ox.ac.uk
+linkedinurl: mcr.vicepresident@new.ox.ac.uk
 promoted: true
 weight: 2
 ---
 
-Ufuk is reading for an MPhil in Economics and spends his days scribbling cryptic equations on his oversized whiteboard. In his free time, he can be found playing basketball, reading and writing in the New College cloisters, or having joyful banter with our porter Stewart.
+Ben is a DPhil in Chemical Biology and spends most of his time tucked away in the lab. When he's not wondering why his reactions don't work he enjoys running, hiking, and playing tennis.
