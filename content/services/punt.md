@@ -23,10 +23,6 @@ Our punt "harbor" is located on the canal on the right side of the College's Spo
 
 Punts are usually available from the beginning of May (when the weather allows) until the end of Trinity term, as per college regulations.
 
- 
-
-> COVID-19 RESTRICTIONS: note that for as long as the current 'NO VISITOR' policy stands, it is only possible to use the punts with fellow New College members. Guests from outside of college are not allowed to use punts. Infringement of this rule may lead to fines.
-
 
  
 ## How to book  
@@ -75,7 +71,7 @@ With each punt you are allocated one paddle, one pole and 4 cushions. There is a
      
 **Step 2: Open the punt shed**
 
-This lock is not key-operated! There is a combination lock on the punt shed. Ask the porters for the 4 digit code.
+Open lock with the keys provided to access the punt shed.
      
 **Step 3: Unlock your paddle and pole**
 - The equipment racks are labelled 1 to 5 corresponding to your punt number 
