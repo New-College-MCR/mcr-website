@@ -2,7 +2,7 @@
 title: "Dorian Muntean"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/DM.JPG"
+image: "images/team/DM.jpg"
 jobtitle: "Bar Rep / First-Year Rep"
 linkedinurl: dorian.muntean@new.ox.ac.uk
 promoted: true

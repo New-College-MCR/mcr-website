@@ -16,7 +16,7 @@ date: 2018-02-22T17:01:34+07:00
 
 [Map of New College](/docs/NC-map.pdf)
 
-[Fresher's Guide 2021](/docs/New_College_MCR_Freshers_Guide_2021_0.pdf)
+[Fresher's Guide 2022](/docs/New_College_MCR_Freshers_Guide_2022.pdf)
 
 [Data Sharing Agreement](/docs/DataSharingAgreement.pdf)
 

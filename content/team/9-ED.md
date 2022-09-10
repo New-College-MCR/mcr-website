@@ -1,12 +1,12 @@
 ---
-title: "Devarchan Banerjee"
+title: "Mandisa Shandu"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/DB.jpeg"
+image: "images/team/MS.jpeg"
 jobtitle: "Equality and Diversity / Disability Officer"
-linkedinurl: devarchan.banerjee@new.ox.ac.uk
+linkedinurl: mandisa.shandu@new.ox.ac.uk
 promoted: true
 weight: 9
 ---
 
-Devarchan is doing a DPhil at the Said Business School. His career is in international development and social impact and he is passionate about inclusion . In case there's anything you've experienced at the College/University that has made you felt uncomfortable, or have ideas to celebrate your culture/identity or just miss home. Feel free to reach out!
+Mandisa is from South Africa and is doing a DPhil in Law. Her career is in human rights law, and she is passionate about using the law to advance equality and social justice. She enjoys jazz, poetry, long walks (not runs!) and wine. Feel free to reach out to Mandisa about any ideas you might have to make your experience at New more inclusive, or to celebrate your culture/identity as a college community.  

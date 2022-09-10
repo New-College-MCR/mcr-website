@@ -17,9 +17,7 @@ New College supports a lovely, tranquil environment for students of many discipl
 
 <b>Library Opening Hours</b>
 
-Term: 8 am to 2:00 am (every day)
-
-Vacation: 8 am to 8:30 pm (every day)
+All year: 8 am to 2:00 am (every day)
 
 To suggest new books for the Library, contact [the Librarian, Dr Christopher Skelton-Foord](christopher.skelton-foord@new.ox.ac.uk)
 

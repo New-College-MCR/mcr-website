@@ -8,7 +8,7 @@ layout: contact
 [mcr.president@new.ox.ac.uk](mailto:mcr.president@new.ox.ac.uk)
 
 ### Ads for Newsletter
-[mcr.secretary@new.ox.ac.uk](mailto:mcr.secretary@new.ox.ac.uk)
+[mcr.vicepresident@new.ox.ac.uk](mailto:mcr.vicepresident@new.ox.ac.uk)
 
 ### Welfare Support 
 [mcr.welfare@new.ox.ac.uk](mailto:mcr.welfare@new.ox.ac.uk)
