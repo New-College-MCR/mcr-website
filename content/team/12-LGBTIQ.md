@@ -2,7 +2,7 @@
 title: "Tom Sweeney"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/TS.jpg"
+image: "images/team/TS.jpg"
 jobtitle: "LGBTIQ+ Representative"
 linkedinurl: tom.sweeney@new.ox.ac.uk
 promoted: true
