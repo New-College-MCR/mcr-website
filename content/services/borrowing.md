@@ -10,7 +10,7 @@ The MCR own various items that can be borrowed by members, like bikes, instrumen
 
 ## Bikes
 
-The MCR owns a fleet of bicycles which MCR members can borrow for a few days at a time for free! These are maintained by the MCR Bike Rep.
+The MCR owns a fleet of bicycles which MCR members can borrow for a few days at a time for free! These are maintained by the MCR Bike Rep, so feel free to reach out with any questions.
 
 If you would like to borrow a bike, you must first fill out [this form](https://forms.office.com/r/Amnk9GHMAE). Then you will receive information on where to collect the keys.
 
@@ -22,7 +22,17 @@ You can either play those games within the Weston Pavillion or take them home wi
 
 Important changes to the borrowing system: we have introduced a 7-day limit on loan periods.
 
-If you have any board game suggestions for our collection, or if you have any queries about the scheme, contact your Arts and Culture officer via sophie.nagler@new.ox.ac.uk. 
+If you have any board game suggestions for our collection, or if you have any queries about the scheme, contact the Arts and Culture officer. 
+
+## Air Mattresses
+
+The MCR has 3 single-sized air mattresses that any MCR member can use. In order to borrow one, you must fill out the mattress sign out form that’s located in the white cabinet at the back of the TV room in the MCR pavilion (same place the bike and board game rental forms are). 
+
+The mattresses are located on the second shelf from the bottom of that same cabinet. There is also an air pump that you can use to help blow up the mattresses, but please make sure that you return this pump ASAP since we only have one and other people may need it to inflate their mattresses. 
+
+Once you’re done using your borrowed mattress, please return it to the shelf that you picked it up from and note the date you returned it so we can properly track where they are. 
+
+If you have any questions, please contact the Housing Officer.
 
 ## Instruments
 
@@ -33,4 +43,4 @@ To cope with issues (e.g. people taking instruments without signing them up, kee
 
 ## Books
 
-The MCR has a growing collection of books on a variety of topics, feel free to check it out in the TV Room! If you have suggestions on new books to procure for our collective enjoyment, feel free to contact your Arts and Culture officer via sophie.nagler@new.ox.ac.uk.
+The MCR has a growing collection of books on a variety of topics, feel free to check it out in the TV Room! If you have suggestions on new books to procure for our collective enjoyment, feel free to contact the Arts and Culture officer.

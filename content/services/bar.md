@@ -33,7 +33,7 @@ To quote the best song to come out of Norway in the 20th C and the unofficial mo
 
 In all seriousness - It’s a load of fun, and a great way to get involved with the MCR community, bar volunteers also have the privilege of free drinks (within reason!!!) while they are on shift. 
 
-__‘Where can I sign up?’, you ask!__
+__‘How can I sign up?’, you ask!__
 
-Put your name down on 
+Contact our Bar Rep, Dorian Muntean (dorian.muntean@new.ox.ac.uk)
 
