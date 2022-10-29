@@ -11,7 +11,7 @@ weight: 13
 
 
 
-Russell is doing a DPhil in Robotics Engineering. As the Bike Rep, Russell maintains the MCR's fleet of bicycles which are free for members to borrow. He also organizes bike repair workshops during term where members can tune up and repair their bikes for free or very little cost.
+Russell (he/him) is doing a DPhil in Robotics Engineering. As the Bike Rep, Russell maintains the MCR's fleet of bicycles which are free for members to borrow. He also organizes bike repair workshops during term where members can tune up and repair their bikes for free or very little cost.
 
 
 

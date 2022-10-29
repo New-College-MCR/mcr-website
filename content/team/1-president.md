@@ -9,4 +9,4 @@ promoted: true
 weight: 1
 ---
 
-Emily is doing a DPhil in Computational Biology type things (the actual title of the course is too long to say). She loves cooking and baking, and will eat pretty much anything that is put in front of her. Her main means of procrastination include taking long baths, drinking fancy tea, and playing ukulele.
+Emily (she/her) is doing a DPhil in Computational Biology type things (the actual title of the course is too long to say). She loves cooking and baking, and will eat pretty much anything that is put in front of her. Her main means of procrastination include taking long baths, drinking fancy tea, and playing ukulele.

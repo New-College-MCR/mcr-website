@@ -9,4 +9,4 @@ promoted: true
 weight: 10
 ---
 
-Eleanor is studying for a DPhil in modern French literature and is a former Editor-in-Chief of the Oxford Review of Books
+Eleanor (she/her) is studying for a DPhil in modern French literature and is a former Editor-in-Chief of the Oxford Review of Books

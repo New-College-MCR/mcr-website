@@ -9,5 +9,5 @@ promoted: true
 weight: 7
 ---
 
-Bana is reading for a DPhil in Genomic Medicine and Statistics, a fancy way of essentially saying genetics. When she’s not attempting science Bana is usually painting, reading/ writing Arabic poetry, or making pottery mugs and pots.
+Bana (she/her) is reading for a DPhil in Genomic Medicine and Statistics, a fancy way of essentially saying genetics. When she’s not attempting science Bana is usually painting, reading/ writing Arabic poetry, or making pottery mugs and pots.
 

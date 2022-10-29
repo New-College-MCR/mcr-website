@@ -9,5 +9,5 @@ promoted: true
 weight: 4
 ---
 
-Bushra is pursuing a DPhil in Biochemistry, focusing on DNA replication and repair mechanisms. Apart from complaining about how long her day has been (every day), she spends her free time reading and attempting to write poetry and playing the piano.
+Bushra (she/her) is pursuing a DPhil in Biochemistry, focusing on DNA replication and repair mechanisms. Apart from complaining about how long her day has been (every day), she spends her free time reading and attempting to write poetry and playing the piano.
 

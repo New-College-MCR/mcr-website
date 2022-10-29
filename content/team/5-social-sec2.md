@@ -9,4 +9,4 @@ promoted: true
 weight: 5
 ---
 
-Adam is doing an MPhil in Ancient History. He’s been at New College since 2017 (mostly as an undergrad), and enjoys drinking wine, eating cheese, and representing the mighty New College cricket and football teams.
+Adam (he/him) is doing an MPhil in Ancient History. He’s been at New College since 2017 (mostly as an undergrad), and enjoys drinking wine, eating cheese, and representing the mighty New College cricket and football teams.

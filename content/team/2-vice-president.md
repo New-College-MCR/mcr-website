@@ -9,4 +9,4 @@ promoted: true
 weight: 2
 ---
 
-Ben is a DPhil in Chemical Biology and spends most of his time tucked away in the lab. When he's not wondering why his reactions don't work he enjoys running, hiking, and playing tennis.
+Ben (he/him) is a DPhil in Chemical Biology and spends most of his time tucked away in the lab. When he's not wondering why his reactions don't work he enjoys running, hiking, and playing tennis.
