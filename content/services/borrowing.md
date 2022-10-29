@@ -12,7 +12,7 @@ The MCR own various items that can be borrowed by members, like bikes, instrumen
 
 The MCR owns a fleet of bicycles which MCR members can borrow for a few days at a time for free! These are maintained by the MCR Bike Rep, so feel free to reach out with any questions.
 
-If you would like to borrow a bike, you must first fill out [this form](https://forms.office.com/r/Amnk9GHMAE). Then you will receive information on where to collect the keys.
+If you would like to borrow a bike, you must first fill out [this form](https://forms.gle/VksiSh5ob1MFiUm17). Then you will receive an automated email (check your spam folder if you don't get one after a few minutes) containing information on where to collect the keys.
 
 ## Board Games
 
