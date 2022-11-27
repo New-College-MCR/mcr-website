@@ -3,7 +3,7 @@ title: "Mandisa Shandu (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/MS.jpg"
-jobtitle: "Equality and Diversity / Disability Officer"
+jobtitle: "Equality and Diversity Officer"
 linkedinurl: mandisa.shandu@new.ox.ac.uk
 promoted: true
 weight: 9

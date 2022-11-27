@@ -3,7 +3,7 @@ title: "Mia Zipperle (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/MZ.jpg"
-jobtitle: "Women's officer"
+jobtitle: "Women's OSfficer"
 linkedinurl: mia.zipperle@new.ox.ac.uk
 promoted: true
 weight: 10

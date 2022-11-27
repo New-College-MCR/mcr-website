@@ -3,7 +3,7 @@ title: "Kristen Koopmans (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/KK.jpg"
-jobtitle: "Women's officer"
+jobtitle: "Women's Officer"
 linkedinurl: kristen.koopmans@new.ox.ac.uk
 promoted: true
 weight: 10

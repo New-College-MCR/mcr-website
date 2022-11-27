@@ -9,4 +9,4 @@ promoted: true
 weight: 14
 ---
 
-Hi! I'm excited to join the committee as one half of the Arts & Culture rep team alongside Hazel- we're keen to organise lots of events and activities that are easily accessible to everyone in the MCR and collaborate with other colleges so that we can all meet new people, whilst strengthening our own NC community. I'm studying musicology and spend my free time playing the trumpet as one sixth of catbandcat! 
+Hi! I'm keen to organise lots of events and activities that are easily accessible to everyone in the MCR and collaborate with other colleges so that we can all meet new people, whilst strengthening our own NC community. I'm studying musicology and spend my free time playing the trumpet as one sixth of catbandcat! 
