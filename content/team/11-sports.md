@@ -1,5 +1,5 @@
 ---
-title: "Aidan Manley"
+title: "Aidan Manley (he/him)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/AM.jpg"
@@ -9,5 +9,5 @@ promoted: true
 weight: 11
 ---
 
-Aidan (he/him) is a DPhil in Chemistry. When not wondering why his code has inexplicably produced imaginary numbers, he is usually waking up at dawn for rowing outings, kicking a football against a wall while reminding himself of Einstein’s definition of insanity or sobbing over Newcastle United’s most recent result.
+Aidan is a DPhil in Chemistry. When not wondering why his code has inexplicably produced imaginary numbers, he is usually waking up at dawn for rowing outings, kicking a football against a wall while reminding himself of Einstein’s definition of insanity or sobbing over Newcastle United’s most recent result.
 

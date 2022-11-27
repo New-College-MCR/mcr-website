@@ -1,5 +1,5 @@
 ---
-title: "Jacopo Olivieri"
+title: "Jacopo Olivieri (he/him)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/JO.jpg"
@@ -9,5 +9,5 @@ promoted: true
 weight: 3
 ---
 
-Jacopo (he/him) is reading for a MPhil in Economics. Whenever he is not obsessing over his beautiful spreadsheets or wondering why his linear regressions are outputting Shakespeare quotes, he can be spotted running mindlessly in University Parks, eating pasta, or lying face down on his bed.
+Jacopo is reading for a MPhil in Economics. Whenever he is not obsessing over his beautiful spreadsheets or wondering why his linear regressions are outputting Shakespeare quotes, he can be spotted running mindlessly in University Parks, eating pasta, or lying face down on his bed.
 

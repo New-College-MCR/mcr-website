@@ -1,12 +1,12 @@
 ---
-title: "Giulia Bernardini"
+title: "Mhairi Carson (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/GB.jpg"
-jobtitle: "Arts & Culture Rep, Memelord of the MCR"
-linkedinurl: giulia.bernardini@new.ox.ac.uk
+image: "images/team/MC.jpg"
+jobtitle: "Arts & Culture Rep"
+linkedinurl: mhairi.carson@new.ox.ac.uk
 promoted: true
 weight: 14
 ---
 
-Giulia (she/they) is doing a DPhil in History. She joined the MCR Committee back in 2018 undertaking the role of LGBTQ+ Rep and Sports Rep. Currently she is our Arts & Culture Representative, which among other things means that she is in charge of board games, videogame consoles and musical instruments at the Pavilion, and organises subsidised cultural events for the MCR. 
+Hi! I'm excited to join the committee as one half of the Arts & Culture rep team alongside Hazel- we're keen to organise lots of events and activities that are easily accessible to everyone in the MCR and collaborate with other colleges so that we can all meet new people, whilst strengthening our own NC community. I'm studying musicology and spend my free time playing the trumpet as one sixth of catbandcat! 

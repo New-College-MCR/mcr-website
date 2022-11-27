@@ -1,12 +1,12 @@
 ---
-title: "Eleanor Lischka"
+title: "Kristen Koopmans (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/EL.jpg"
+image: "images/team/KK.jpg"
 jobtitle: "Women's officer"
-linkedinurl: eleanor.lischka@new.ox.ac.uk
+linkedinurl: kristen.koopmans@new.ox.ac.uk
 promoted: true
 weight: 10
 ---
 
-Eleanor (she/her) is studying for a DPhil in modern French literature and is a former Editor-in-Chief of the Oxford Review of Books
+Kristen (she/her) is currently pursuing a DPhil in Cancer Sciences. When she’s not pipetting things in the lab, she’s probably cafe hopping trying to find the best cortado in Oxford. 
