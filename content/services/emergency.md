@@ -42,9 +42,9 @@ Terms of the loan
 
 ## Solidarity Fund
 
-The MCR Solidarity Fund (from now on, MSF) is a project which aims to help fellow postgraduate students at New College who are experiencing financial distress. Only full members of the MCR are eligible to apply. You can find further details via [this link](https://teams.microsoft.com/l/file/27086710-471B-4893-8EAF-C10D7B2BC89E?tenantId=cc95de1b-97f5-4f93-b4ba-fe68b852cf91&fileType=pdf&objectUrl=https%3A%2F%2Funioxfordnexus.sharepoint.com%2Fsites%2FNewCollege-MCRCommittee%2FShared%20Documents%2FGeneral%2FMCR%20Solidarity%20Fund%20Information.pdf&baseUrl=https%3A%2F%2Funioxfordnexus.sharepoint.com%2Fsites%2FNewCollege-MCRCommittee&serviceName=teams&threadId=19:7223906f6e0e4fb28867e849f738708a@thread.tacv2&groupId=ced8ce2a-0b2e-4e6b-945e-757f8242ce1a) (on the MCR teams).
+The MCR Solidarity Fund (from now on, MSF) is a project which aims to help fellow postgraduate students at New College who are experiencing financial distress. Only full members of the MCR are eligible to apply. You can find further details via [this form](https://forms.gle/g2n6fR7xW16ciizH8).
 
-The MSFhas two goals:
+The MSF has two goals:
 - to provide quick and easily accessible financial relief for students that are unexpectedly facinghardship;
 - to mitigate the chronic exclusion from New College community life of low-income and/or underprivileged students due to lack of funds.
 
