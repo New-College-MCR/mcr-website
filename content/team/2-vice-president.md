@@ -1,12 +1,12 @@
 ---
-title: "Ben Lagan (he/him)"
+title: "Fitzroy 'Pablo' Wickham (he/him)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/BL.jpg"
+image: "images/team/FPW.jpg"
 jobtitle: "Vice President"
 linkedinurl: mcr.vicepresident@new.ox.ac.uk
 promoted: true
 weight: 2
 ---
 
-Ben is a DPhil in Chemical Biology and spends most of his time tucked away in the lab. When he's not wondering why his reactions don't work he enjoys running, hiking, and playing tennis.
+Pablo hails from Jamaica and is currently reading for a DPhil in Clinical Neuroscience. When he isn't tending to his MCR Veep responsibilities Pablo enjoys cooking, eating, working out, acting and binging Netflix series.

@@ -1,12 +1,12 @@
 ---
-title: "Eloise Knight-Smith (she/they)"
+title: "Mizy Judah Clifton (he/they)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/EKS.jpg"
+image: "images/team/MClifton.jpg"
 jobtitle: "LGBTIQ+ Rep"
-linkedinurl: eloise.knight-smith@new.ox.ac.uk
+linkedinurl: mizy.clifton@new.ox.ac.uk
 promoted: true
 weight: 12
 ---
 
-Eloise is currently reading for an MPhil in Classical Languages and Literature (heavy emphasis on the reading part). Whenever freed from the library she can be found eating toast, lurking in the pub, or buying old men’s clothes on eBay.
+Mizy is reading for an MSt in Women's, Gender, and Sexuality Studies. When he's not reading wacky queer/trans theory, he can be found asleep (with a philosophy podcast playing in the background) or out on a long walk. Mizy's main goal is to create a safe and supportive environment for LGBTQ+ people at NC and is always available for a chat–very little phases him, so do reach out if you ever need a listening ear. 

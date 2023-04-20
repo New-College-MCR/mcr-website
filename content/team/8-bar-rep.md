@@ -1,12 +1,12 @@
 ---
-title: "Dorian Muntean (he/him)"
+title: "Eloise Knight-Smith"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/DM.jpg"
+image: "images/team/EKS.jpg"
 jobtitle: "Bar Officer"
-linkedinurl: dorian.muntean@new.ox.ac.uk
+linkedinurl: eloise.knight-smith@new.ox.ac.uk
 promoted: true
 weight: 8
 ---
 
-Dorian is reading for a DPhil in Organic Chemistry, where he investigates the development of new antibiotics. When he is not in the lab, he enjoys visiting museums, seeing a play at the theater, or just going on a walk to Port Meadows. 
+Eloise is currently reading for an MPhil in Greek Literature and Language. Some of you may know them from their tenure as LGBTQ+ rep, but they're now back and better than ever with much more alcohol at their disposal (and some fancy soft drinks too)- you will likely find them frantically writing essays behind the bar. 

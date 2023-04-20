@@ -2,7 +2,7 @@
 title: "Mhairi Carson (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/MC.jpg"
+image: "images/team/MCarson.jpg"
 jobtitle: "Arts & Culture Rep"
 linkedinurl: mhairi.carson@new.ox.ac.uk
 promoted: true

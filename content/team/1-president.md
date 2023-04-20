@@ -1,12 +1,13 @@
 ---
-title: 'Emily Jin (she/her)'
-date: 2018-12-20T13:44:30+10:00
+title: "James 'Theo' McAuliffe (he/him)"
+date: 2018-11-19T10:47:58+10:00
 draft: false
-image: 'images/team/EJ.jpg'
-jobtitle: 'President'
+image: "images/team/TM.jpg"
+jobtitle: "President"
 linkedinurl: mcr.president@new.ox.ac.uk
 promoted: true
 weight: 1
 ---
 
-Emily is doing a DPhil in Computational Biology type things (the actual title of the course is too long to say). She loves cooking and baking, and will eat pretty much anything that is put in front of her. Her main means of procrastination include taking long baths, drinking fancy tea, and playing ukulele.
+Theo is a DPhil student on the Interdisciplinary Biosciences DTP, focusing on virology related research. To break up the monotony of living in a lab he enjoys running, playing rugby and football, sleeping and watching trash TV. Get in touch if you have any ideas to improve MCR life!
+
