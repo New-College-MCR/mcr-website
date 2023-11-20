@@ -1,13 +1,12 @@
 ---
-title: "Aidan Manley (he/him)"
+title: "Gregory Langone"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/AM.jpg"
+image: "images/team/GL.jpg"
 jobtitle: "Sports Rep / Vice Admiral of Punts"
-linkedinurl: aidan.manley@new.ox.ac.uk
+linkedinurl: gregory.langone@new.ox.ac.uk
 promoted: true
 weight: 10
 ---
 
-Aidan is a DPhil in Chemistry. When not wondering why his code has inexplicably produced imaginary numbers, he is usually waking up at dawn for rowing outings, kicking a football against a wall while reminding himself of Einstein’s definition of insanity or sobbing over Newcastle United’s most recent result.
-
+Greg is a Civil Engineering student from New York. He specializes in getting evicted from sports grounds.

@@ -1,12 +1,12 @@
 ---
-title: "Mandisa Shandu (she/her)"
+title: Han Zhao (he/him)
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/MS.jpg"
+image: "images/team/BZ.jpg"
 jobtitle: "Equality and Diversity Officer"
-linkedinurl: mandisa.shandu@new.ox.ac.uk
+linkedinurl: brandon.zhao@new.ox.ac.uk
 promoted: true
 weight: 9
 ---
 
-Mandisa is from South Africa and is doing a DPhil in Law. She enjoys jazz, poetry, long walks (not runs!) and wine. Feel free to reach out about any ideas you may have to make your experience at New more inclusive, or to celebrate your culture/identity as a college community.  
+Hi y’all! My name is Han, and I am the E&D Rep for the New College MCR. I grew up in the USA in the suburbs of Dallas, TX, and I did my undergrad at UCLA. Right now, I’m pursuing an MSc in Statistical Science. Outside of academics, I love playing chess and watching nature documentaries. (Planet Earth III is out now!!)

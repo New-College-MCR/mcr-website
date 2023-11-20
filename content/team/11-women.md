@@ -1,12 +1,12 @@
 ---
-title: "Kristen Koopmans (she/her)"
+title: "Miriam Yakobashvili (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/KK.jpg"
+image: "images/team/MY.jpg"
 jobtitle: "Women's Rep"
-linkedinurl: kristen.koopmans@new.ox.ac.uk
+linkedinurl: miriam.yakobashvili@new.ox.ac.uk
 promoted: true
 weight: 11
 ---
 
-Kristen (she/her) is currently pursuing a DPhil in Cancer Sciences. When she’s not pipetting things in the lab, she’s probably cafe hopping trying to find the best cortado in Oxford. 
+Hi! I'm Miriam. I am from Tbilisi Georgia, and doing an MPhil in International Relations. Outside of my studies, I enjoy art, cooking, and trying out new cuisines. I wish to make the MCR a safer and more inclusive space for all! Please reach out with any ideas or concerns.

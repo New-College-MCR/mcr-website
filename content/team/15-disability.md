@@ -1,12 +1,12 @@
 ---
-title: "Cieran Leigh (he/him)"
+title: "Alex Lovell (they/them)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/CL.jpg"
+image: "images/team/AL.jpg"
 jobtitle: "Disability Rep"
-linkedinurl: cieran.leigh@new.ox.ac.uk
+linkedinurl: alexandra.lovell@new.ox.ac.uk
 promoted: true
 weight: 15
 ---
 
-I'm Cieran, a mathematics teacher (PGCE) at the Department of Education, and the first generation to come to university in my family. I'm a disabled student and come from a family with a long history of disabled family members and supporting disabled chairites. My interest include recreational mathematics, sailing, and supporting the Welsh rugby team.
+I’m a PGCE student and I specialise in History. For my undergraduate degree, I researched and wrote about the disability rights movement under Margaret Thatcher’s governments. I am a first generation and estranged student. I have previously worked on the first Global Ministerial Mental Health Event, and with the Children’s Society. 

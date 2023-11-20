@@ -1,13 +1,13 @@
 ---
-title: "Hazel Simpson (she/her)"
+title: "Frankie Lukens"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/HS.jpg"
+image: "images/team/FL.jpg"
 jobtitle: "Arts & Culture Rep"
-linkedinurl: hazel.simpson@new.ox.ac.uk
+linkedinurl: frank.lukens@new.ox.ac.uk
 promoted: true
 weight: 14
 ---
 
-Hazel is doing an MSc in Experimental Psychology. She loves cooking, reading, and drawing. A typical day-in-the-life might involve working (unproductively) in one of Oxford’s many libraries, laying in bed contemplating life, and then rushing to an event she forgot she signed up for.  
+Frankie is a Florida Man (and also Guatemalan). He is doing an MSt in Modern European History. When not reading about the German-Latin American coffee trade, he enjoys swimming, eating Thai and Indian food, learning German, and going to pubs with friends.
 
