@@ -2,7 +2,7 @@
 title: "Alysia Martinez (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/AM.jpg"
+image: "images/team/AM2.jpg"
 jobtitle: "Bar Officer"
 linkedinurl: alysia.martinez@new.ox.ac.uk
 promoted: true
