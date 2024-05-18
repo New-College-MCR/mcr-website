@@ -1,12 +1,12 @@
 ---
-title: Han Zhao (he/him)
+title: Aniket Chakravorty (he/him)
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/BZ.jpg"
+image: "images/team/AC.jpeg"
 jobtitle: "Equality and Diversity Officer"
-linkedinurl: brandon.zhao@new.ox.ac.uk
+linkedinurl: aniket.chakravorty@new.ox.ac.uk
 promoted: true
 weight: 9
 ---
 
-Hi y’all! My name is Han, and I am the E&D Rep for the New College MCR. I grew up in the USA in the suburbs of Dallas, TX, and I did my undergrad at UCLA. Right now, I’m pursuing an MSc in Statistical Science. Outside of academics, I love playing chess and watching nature documentaries. (Planet Earth III is out now!!)
+Aniket is a BPhil student in philosophy. When he isn't busy arguing about philosophy, he can probably be found arguing about cricket. He also enjoys cooking and building lego in his spare time. Reach out to him if you have thoughts on how to make New College more welcoming for everyone!

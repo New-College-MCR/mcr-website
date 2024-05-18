@@ -1,13 +1,13 @@
 ---
-title: "Mikhail 'Misha' Vaganov (he/him)"
+title: "Alec Steeley (he/him)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/MV.jpg"
+image: "images/team/AS.jpg"
 jobtitle: "Treasurer"
 linkedinurl: mcr.treasurer@new.ox.ac.uk
 promoted: true
 weight: 3
 ---
 
-I am doing a DPhil in experimental Condensed Matter Physics. Most of the time I spend in the lab kicking electron and nuclear spins trying to make them behave and be coherent. This is motivated mostly by the appalling hardware requirements for Elden ring, Final fantasy and God of War: humans definitely need quantum computers for those games! 
+Hi! I’m Alec. I’m from Stratford-upon-Avon and doing an MPhil in Economics. I moved to Oxford after my undergrad at Warwick. On the rare occasion that I have time outside my course, I like calisthenics, playing piano and going on very long walks and runs with my friends.
 

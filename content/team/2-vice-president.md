@@ -1,12 +1,12 @@
 ---
-title: "Fitzroy 'Pablo' Wickham (he/him)"
+title: "Frank Lukens"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/FPW.jpg"
+image: "images/team/FL.jpg"
 jobtitle: "Vice President"
 linkedinurl: mcr.vicepresident@new.ox.ac.uk
 promoted: true
 weight: 2
 ---
 
-Pablo hails from Jamaica and is currently reading for a DPhil in Clinical Neuroscience. When he isn't tending to his MCR Veep responsibilities Pablo enjoys cooking, eating, working out, acting and binging Netflix series.
+Frankie is a Florida Man (and also Guatemalan). He is doing an MSt in Modern European History. When not reading about the German-Latin American coffee trade, he enjoys swimming, eating Thai and Indian food, learning German, and going to pubs with friends.

@@ -1,13 +1,12 @@
 ---
-title: "James McAuliffe (he/him)"
+title: "Miriam Yakobashvili (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/TM.jpg"
-jobtitle: "President"
+image: "images/team/MY.jpg"
+jobtitle: "President & Women's Officer"
 linkedinurl: mcr.president@new.ox.ac.uk
 promoted: true
 weight: 1
 ---
 
-Theo is a DPhil student on the Interdisciplinary Biosciences DTP, focusing on virology related research. To break up the monotony of living in a lab he enjoys running, playing rugby and football, sleeping and watching trash TV. Get in touch if you have any ideas to improve MCR life!
-
+Hi! I’m Miriam. I am from Tbilisi Georgia, and doing an MPhil in International Relations. Outside of my studies, I enjoy art, cooking, and trying out new cuisines. I wish to make the MCR a safer and more inclusive space for all! Please reach out with any ideas or concerns.

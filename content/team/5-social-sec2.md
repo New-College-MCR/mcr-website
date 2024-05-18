@@ -1,12 +1,12 @@
 ---
-title: "George Morgan (he/him)"
+title: "Pat Flood"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/GM.jpg"
+image: "images/team/PF.jpg"
 jobtitle: "Social Secretary"
 linkedinurl: mcr.social@new.ox.ac.uk
 promoted: true
 weight: 5
 ---
 
-George is doing a DPhil in Condensed Matter Physics exploring new materials for next generation solar cells and has moved to Oxford after completing his undergraduate degree at Imperial College London. He enjoys spending time with friends, playing rugby (for both New College and the University), and making the most of our time here in the MCR at New College. 
+Pat is a History student specialising in the eighteenth-century. He is most commonly found trying to find decent coffee in Oxford, and planning the next big social engagement. He specialises in nuanced discussions about history & people that most find dull.
