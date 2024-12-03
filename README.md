@@ -19,4 +19,6 @@ $ git pull
 $ hugo
 ```
 
+For your information, `/home/mcrito/newmcrwebsite_hugo/mcr-website` is softlinked to `/var/www/html/new_hugo_site`
+
 The server uses hugo v0.68.3 and the hugo-serif-theme uses commit `1c8aee0`
