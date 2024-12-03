@@ -1,12 +1,12 @@
 ---
-title: "Marie-Angela Stokolosa (she/her)"
+title: "Charlotte von Fallois (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/MA.jpg"
+image: "images/team/CF.jpg"
 jobtitle: "Arts & Culture Rep"
-linkedinurl: marie-angela.stokolosa@new.ox.ac.uk
+linkedinurl: charlotte.vonfallois@new.ox.ac.uk
 promoted: true
 weight: 14
 ---
 
-Hi ! I'm Marie-Angela and I'm studying for the Diploma in Legal Studies. I previously studied in London and in Paris. I enjoy oil painting and life drawing and I’m very proud of my growing collection of ugly mugs. My goal this year is to fill up the many sketchbooks I brought from home and to eat 11 hashbrowns in one sitting.
+Charlotte is pursuing the MJur (and gets slightly annoyed at Oxford for being the only university where this degree is not called an LLM). She completed her legal training in Hamburg and Berlin and is now very excited to leave the law of German criminal procedure behind and focus exclusively on international law and commercial negotiation. In her free time, Charlotte loves trying out edible chemistry experiments (aka fermentation), sings badly in the Trinity choir and tries to find new ways to combine food and art into awesome MCR events!
