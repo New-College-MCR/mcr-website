@@ -17,15 +17,13 @@ New College supports a lovely, tranquil environment for students of many discipl
 
 <b>Library Opening Hours</b>
 
-All year: 8 am to 2:00 am (every day)
+All year: 7 am to 2:00 am (every day)
 
 To suggest new books for the Library, contact [the Librarian, Dr Christopher Skelton-Foord](christopher.skelton-foord@new.ox.ac.uk)
 
 To book the Library’s Group Study Room click [here](https://www.new.ox.ac.uk/library-group-study-room)
 
 For resources to help with your welfare, well-being, and study skills click [here](https://www.new.ox.ac.uk/student-welfare-and-study-skills-collection)
-
-To book the Library’s Group Study Room click [here](https://www.new.ox.ac.uk/library-group-study-room)
 
 Information on what New College Library and Archives provide can be found [here](https://www.new.ox.ac.uk/library-and-archives)
 

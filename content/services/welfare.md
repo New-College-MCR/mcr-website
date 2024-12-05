@@ -20,18 +20,17 @@ Nothing brightens than a surprise bit of chocolate in your pidge. Chocolate Fair
 ## MCR Support 
 ### Peer Supporters
 
-**Irene Yang**
+**Łucja Skolankiewicz (she/her)**
 
-irene.yang@ndorms.ox.ac.uk
+lucja.skolankiewicz@new.ox.ac.uk
 
-I am in my second year of a DPhil in Musculoskeletal Science looking at just the outer halves of each knee. I spend most of my time in Headingtonbut when I’m not there, I’m in the MCR, or writing, painting, sketching or taking photos of nature. As a peer supporter, I am also available to chat confidentially and support students with any matters of concern.As MCR WelfareOfficer, I works closely with the sports officer, the social officers, the Equality and Diversity rep, womens rep and LGBTQ+ rep (and the rest of the MCR committee), to ensure that welfareis well taken care of. I enjoy listening, caring and supporting all MCR members to ensure that the MCR is as inclusive as possible.
+Łucja is doing MPhil in Russian and East European Studies. She was born and raised in Cracow, Poland. She loves nature, animals and wandering around the forest.
 
-**Thomas Caganek**
+**Nick Arndt (he/him)**
 
-thomas.caganek@new.ox.ac.uk
+nick.arndt@politics.ox.ac.uk
 
-Hi! I'm Thomas, a second-year chemical biologist and I'm one of the peer supporters this year. It can be very intimidating at Oxford and especially in the beginning it can feel like you have no one to talkto. I certainly felt that way when I first arrived here. I hope I can be someone that you can talk to if you have any issues or just want to chat. You're welcome to reach out about anything that's on your mind-even if you just had a rough day and you want someone to talk.I'm super happy to text or meet up in person pretty much any time. You can reach me per email or on Facebook -or you can find me in my room at the Weston Buildings -I'm living in house 11 room 4.
-
+Nick is from Germany and currently reading for an MPhil in International Relations at the DPIR, just across from the Weston Buildings. He completed his undergrad at in Groningen, the Netherlands. Next to studying, he enjoys playing and watching football, wasting money on fancy coffee, and cooking.
 
 ### Sexual Health Support
 

@@ -35,5 +35,5 @@ In all seriousness - It’s a load of fun, and a great way to get involved with 
 
 __‘How can I sign up?’, you ask!__
 
-Contact our Bar Rep, Dorian Muntean (dorian.muntean@new.ox.ac.uk)
+Contact our Bar Rep, Alysia Martinez (alysia.martinez@new.ox.ac.uk)
 

@@ -10,9 +10,9 @@ weight: 8
 
 Each of us are unique in circumstances, personality, upbringing, and nature. If you ever feel the need to discuss any ranging issue pertaining to equality and diversity that is important to you, we encourage you to reach out to any member of the Greater-Equality&Diversity team!
 
-* Our Equality and Diversity rep: Mandisa Shandu (mandisa.shandu@new.ox.ac.uk)
-* Our Women's Officer: Eleanor Lischka (eleanor.lischka@new.ox.ac.uk)
-* Our LGBTIAQ+ rep: Tom Sweeney (thomas.sweeney@new.ox.ac.uk)
+* Our Equality and Diversity Officer: Aniket Chakravorty (aniket.chakravorty@new.ox.ac.uk)
+* Our Women's Officer: Keely Brown (keely.brown@new.ox.ac.uk)
+* Our LGBTQ+ reps: Izzy Hardin (izzy.hardin@new.ox.ac.uk) and Mario Stepanik (mario.stepanik@new.ox.ac.uk)
 
 
 ## Additional Resources
