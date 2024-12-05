@@ -14,11 +14,11 @@ Description: this repository stores the assets used by the New College MCR websi
 
 ```bash
 $ ssh mcrito@mcrweb-18.new.ox.ac.uk
-$ cd newmcrwebsite_hugo/mcr-website
+$ cd mcr-website
 $ git pull
 $ hugo
 ```
 
-For your information, `/home/mcrito/newmcrwebsite_hugo/mcr-website` is softlinked to `/var/www/html/new_hugo_site`
+For your information, `/home/mcrito/mcr-website` is softlinked to `/var/www/html/new_hugo_site`
 
 The server uses hugo hugo v0.139.3 extended (installed manually at /opt/hugo/hugo and aliased in the `.bashrc`) and the hugo-serif-theme uses commit `4abfc96`
