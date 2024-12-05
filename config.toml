@@ -16,7 +16,7 @@ theme = "hugo-serif-theme"
 
   [params.homepage]
     show_contact_box = false # show / hide the contaxt box on the main page
-    show_services_button = false  # show / hide the "view all services" button
+    show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
     mobile = "images/logo/logo.svg"
@@ -25,8 +25,17 @@ theme = "hugo-serif-theme"
     desktop_height = "50px"
     alt = "New College MCR"
 
+  [params.fonts]
+    # sets the google font link in layouts/partials/google-fonts.html
+    google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Source+Sans+Pro:wght@400;700&display=swap'
+    heading = "Playfair Display"
+    base = "Source Sans Pro"
+
+  [params.colors]
+    primary = "#60504c"
+
   [params.team]
-    summary_large_truncate = 370  # How many characters to include in the summary of the team bios (large layout) before truncating
+    summary_large_truncate = 545  # How many characters to include in the summary of the team bios (large layout) before truncating
 
 [markup.goldmark.renderer]
   unsafe = true
