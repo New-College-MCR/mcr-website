@@ -48,7 +48,7 @@ Additionally, from the beginning of Trinity Term (as soon as the weather allows)
 - Tennis grass courts (up to 5)
 - Punts
 
-To book the New College sports facilities, use the [Sports Facilites Booking System](https://outlook.office365.com/owa/calendar/NewCollegeSportsFacilities@UniOxfordNexus.onmicrosoft.com/bookings/). 
+To book the New College sports facilities, use the [Sports Facilites Booking System](https://scheduler.new.ox.ac.uk/Web/schedule.php?sid=17). 
 Once you have completed your booking, you will need to go to the WESTON PORTERS LODGE to pick up keys/fobs to access the facilities (this does not apply to grass courts). This means that some of the sports facilities can only be accessed during WESTON LODGE OPENING TIMES. Furthermore, every court comes with its own rules that are specified on the booking calendar (for example, you can only use the squash court wearing non-marking shoes).
  
 ## Rules on the use of New College facilities
