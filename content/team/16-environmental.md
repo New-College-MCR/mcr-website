@@ -1,12 +1,12 @@
 ---
-title: "Belle Rockett (she/her)"
+title: "Victor Bordereau"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/AR.jpg"
+image: "images/team/VB.jpg"
 jobtitle: "Environmental Rep"
-linkedinurl: annabel.rockett@new.ox.ac.uk
+linkedinurl: victor.bordereau@new.ox.ac.uk
 promoted: true
 weight: 16
 ---
 
-Belle is reading for the DPhil in Classical Languages and Literature, specialising in the philosophy of ancient music theory. Born and raised in Shropshire, she previously studied in Edinburgh and Cambridge. When she’s not contemplating how to climb out of Plato’s Cave, you’ll find her rowing, reading terrible romance novels, and trying to pet every dog she sees.
+Hi, I'm Victor and I'm studying for the diploma in legal studies. I come from France, and I studied law in Paris for three years. I’m pleased to be the environmental representative this year. Proud of my Burgundian roots. Old books and clarinet enthusiast.

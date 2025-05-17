@@ -1,12 +1,12 @@
 ---
-title: "Ala Maksymiuk (she/her)"
+title: "Albert Magnell"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/AM3.jpg"
+image: "images/team/AM4.jpg"
 jobtitle: "House Officer"
-linkedinurl: alicja.maksymiuk@new.ox.ac.uk
+linkedinurl: albert.magnell@new.ox.ac.uk
 promoted: true
 weight: 7
 ---
 
-Hi, I’m Ala, a DPhil student in Computer Science focusing on AI for drug discovery. When I’m not complaining about debugging, I enjoy bouldering, hiking, playing an electric guitar and reading.
+Albert is doing an MPhil in economics. His favorite activities, besides theorizing about economic growth and evolution, are to wander the Ashmolean and explore the local coffee scene.

@@ -1,12 +1,12 @@
 ---
-title: "Frankie Lukens"
+title: "Ala Maksymiuk (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/FL.jpg"
+image: "images/team/AM3.jpg"
 jobtitle: "Vice President"
 linkedinurl: mcr.vicepresident@new.ox.ac.uk
 promoted: true
 weight: 2
 ---
 
-Frankie is a Florida Man (and also Guatemalan). He is doing an MPhil in Modern European History. When not reading about the German-Latin American coffee trade, he enjoys swimming, eating Thai and Indian food, learning German, and going to pubs with friends.
+Hi, I’m Ala, a DPhil student in Computer Science focusing on AI for drug discovery. When I’m not complaining about debugging, I enjoy bouldering, hiking, playing an electric guitar and reading.

@@ -1,12 +1,12 @@
 ---
-title: "Alysia Martinez (she/her)"
+title: "Andrew Smith (he/him)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/AM2.jpg"
+image: "images/team/AS.jpg"
 jobtitle: "Bar Officer"
-linkedinurl: alysia.martinez@new.ox.ac.uk
+linkedinurl: andrew.smith@new.ox.ac.uk
 promoted: true
 weight: 8
 ---
 
-Howdy! I’m Alysia (: I hale from the great state of Texas and I’m so excited to serve as this years Bar Rep and be a part of our incredible community! 
+Andrew is a musician from central Scotland, currently pursuing an MSt in Music (Performance). Within New College, he oscillates rapidly between the Clore Music Studios and the bar, where he can often be found experimenting with cocktails and attempting to perfect the classics. Outside of his musical and MCR duties, he enjoys seeking out the perfect cup of coffee and taking long, contemplative walks through Christ Church Meadow.

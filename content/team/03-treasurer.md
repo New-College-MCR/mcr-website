@@ -1,13 +1,12 @@
 ---
-title: "Alec Steeley (he/him)"
+title: "Pat Flood"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/AS.jpg"
+image: "images/team/PF.jpg"
 jobtitle: "Treasurer"
 linkedinurl: mcr.treasurer@new.ox.ac.uk
 promoted: true
 weight: 3
 ---
 
-Hi! I’m Alec. I’m from Stratford-upon-Avon and doing an MPhil in Economics. I moved to Oxford after my undergrad at Warwick. On the rare occasion that I have time outside my course, I like calisthenics, playing piano and going on very long walks and runs with my friends.
-
+Pat is a History student specialising in the eighteenth-century. He is most commonly found trying to find decent coffee in Oxford, and planning the next big social engagement. He specialises in nuanced discussions about history & people that most find dull.
