@@ -6,7 +6,7 @@ image: "images/team/IH.jpg"
 jobtitle: "LGBTQ+ Rep"
 linkedinurl: izzy.hardin@new.ox.ac.uk
 promoted: true
-weight: 17
+weight: 13
 ---
 
 Hi, I'm Izzy! I'm from North Carolina and I'm doing my MSt in Women's, Gender, and Sexuality Studies. When I'm not studying, I enjoy reading, playing D&D, and crochet!
