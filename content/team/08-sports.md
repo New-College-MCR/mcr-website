@@ -6,7 +6,7 @@ image: "images/team/GL.jpg"
 jobtitle: "Sports Rep / Vice Admiral of Punts"
 linkedinurl: gregory.langone@new.ox.ac.uk
 promoted: true
-weight: 8
+weight: 10
 ---
 
 Greg is a Civil Engineering student from New York. He specializes in getting evicted from sports grounds.

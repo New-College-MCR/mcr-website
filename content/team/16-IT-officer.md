@@ -6,7 +6,7 @@ image: "images/team/CC.jpg"
 jobtitle: "IT Officer"
 linkedinurl: clement.chapot@new.ox.ac.uk
 promoted: true
-weight: 16
+weight: 19
 ---
 
 Hi! I'm Clément and I'm doing a MSc in computer science. When I'm not messing around with computers, I love to play badminton, go cycling and spend time with friends. I'm in charge of this website so feel free to contact me if you have any questions!

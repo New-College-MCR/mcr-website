@@ -6,7 +6,7 @@ image: "images/team/WW.jpg"
 jobtitle: "Disability Rep"
 linkedinurl: william.wilson@new.ox.ac.uk
 promoted: true
-weight: 15
+weight: 18
 ---
 
 Will is taking an MSt in English Lit, focusing on the twentieth century. When he doesn’t have his head in a book (or a pint), he enjoys running, playing the drums and writing.
