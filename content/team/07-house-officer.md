@@ -1,12 +1,12 @@
 ---
-title: "Albert Magnell"
+title: "Calvin Qifan Zhang"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/AM4.jpg"
+image: "images/team/white.jpg"
 jobtitle: "House Officer"
-linkedinurl: albert.magnell@new.ox.ac.uk
+linkedinurl: qifan.zhang@new.ox.ac.uk
 promoted: true
-weight: 9
+weight: 11
 ---
 
-Albert is doing an MPhil in economics. His favorite activities, besides theorizing about economic growth and evolution, are to wander the Ashmolean and explore the local coffee scene.
+

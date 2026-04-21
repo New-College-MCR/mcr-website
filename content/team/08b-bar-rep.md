@@ -1,13 +1,12 @@
 ---
-title: "Simon Wolfers"
+title: "Austin Hickle"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/white.jpg"
-jobtitle: "Social Secretary"
-linkedinurl: mcr.social@new.ox.ac.uk
+jobtitle: "Bar Officer"
+linkedinurl: austin.hickle@new.ox.ac.uk
 promoted: true
-weight: 4
+weight: 13
 ---
-
 
 
