@@ -16,7 +16,7 @@ date: 2018-02-22T17:01:34+07:00
 
 [Map of New College](/docs/NC-map.pdf)
 
-[Fresher's Guide 2024](https://www.new.ox.ac.uk/sites/default/files/2024-10/2024%20MCR%20Freshers%20Guide%20FINAL%20VERSION.pdf)
+[Fresher's Guide 2025](https://www.new.ox.ac.uk/sites/default/files/2025-08/MCR%20Freshers_Guide_2025compressed.pdf)
 
 [MCR Constitution](https://www.new.ox.ac.uk/sites/default/files/2024-02/MCR_Constitution_HT24.pdf)
 
