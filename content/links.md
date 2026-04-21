@@ -10,7 +10,7 @@ date: 2018-02-22T17:01:34+07:00
 
 [Meal Booking System](https://newmeals.new.ox.ac.uk/)
 
-[Meal Costs](https://www.new.ox.ac.uk/battels)
+[Meal Costs](https://www.new.ox.ac.uk/finance-current-students)
 
 [Clore Music Studios Booking](https://scheduler.new.ox.ac.uk/Web/dashboard.php)
 
