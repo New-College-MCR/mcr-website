@@ -1,12 +1,12 @@
 ---
-title: "Andrew Smith (he/him)"
+title: "Joshua Hickford (he/him)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/AS2.jpg"
+image: "images/team/JH.jpg"
 jobtitle: "Bar Officer"
-linkedinurl: andrew.smith@new.ox.ac.uk
+linkedinurl: joshua.hickford@new.ox.ac.uk
 promoted: true
 weight: 11
 ---
 
-Andrew is a musician from central Scotland, currently pursuing an MSt in Music (Performance). Within New College, he oscillates rapidly between the Clore Music Studios and the bar, where he can often be found experimenting with cocktails and attempting to perfect the classics. Outside of his musical and MCR duties, he enjoys seeking out the perfect cup of coffee and taking long, contemplative walks through Christ Church Meadow.
+Josh is studying a Dphil in British Military History, and is an expert in reciting increasingly irrelevant facts about parts of the army that do not even exist anymore. When not in some random archive, he is often found behind the bar or propping it up.

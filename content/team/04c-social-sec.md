@@ -1,12 +1,12 @@
 ---
-title: "Barbie Tyler (she/her)"
+title: "Jackson Moore (he/him)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/BT.jpg"
+image: "images/team/JM.jpg"
 jobtitle: "Social Secretary"
 linkedinurl: mcr.social@new.ox.ac.uk
 promoted: true
 weight: 6
 ---
 
-I'm Barbie, a DPhil Student on the Chemistry in Cells programme (though I don't do any Chemistry nor anything in cells). I am usually found rowing and subsequently running late to an MCR social.
+Hi! I'm Jackson and I'm a DPhil in the Condensed Matter Physics Programme. When not lab, pentathlon. When not pentathlon, unknown. When unknown, <redacted>. Feel free to reach out with questions or if you ever just want to talk! :)

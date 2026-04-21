@@ -1,12 +1,12 @@
 ---
-title: "Charlotte von Fallois (she/her)"
+title: "Akshaj Awasthi (they/he)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/CF.jpg"
+image: "images/team/AA.jpg"
 jobtitle: "Arts & Culture Rep"
-linkedinurl: charlotte.vonfallois@new.ox.ac.uk
+linkedinurl: akshaj.awasthi@new.ox.ac.uk
 promoted: true
 weight: 13
 ---
 
-Charlotte is pursuing the MJur (and gets slightly annoyed at Oxford for being the only university where this degree is not called an LLM). She completed her legal training in Hamburg and Berlin and is now very excited to leave the law of German criminal procedure behind and focus exclusively on international law and commercial negotiation. In her free time, Charlotte loves trying out edible chemistry experiments (aka fermentation), sings badly in the Trinity choir and tries to find new ways to combine food and art into awesome MCR events!
+Akshaj is a first year DPhil in Islamic Art and Architecture at the Faculty of Asian and Middle Eastern Studies. They previously read for an MPhil in Islamic Art, also at Oxford. When not looking at Central Asian and Ottoman material culture, or holed up in the Ertegun House, you can find them either watching a Merchant Ivory film, obsessing over photography or trying to add to their modest cassette and vinyl collection.

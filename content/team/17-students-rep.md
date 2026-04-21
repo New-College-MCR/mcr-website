@@ -2,7 +2,7 @@
 title: "Bonny Nichol (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/BN.jpg"
+image: "images/team/BN.png"
 jobtitle: "Part-Time Students' Rep"
 linkedinurl: bonny.nichol@new.ox.ac.uk
 promoted: true
