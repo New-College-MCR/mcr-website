@@ -9,4 +9,4 @@ promoted: true
 weight: 6
 ---
 
-Hi! I'm Jackson and I'm a DPhil in the Condensed Matter Physics Programme. When not lab, pentathlon. When not pentathlon, unknown. When unknown, <redacted>. Feel free to reach out with questions or if you ever just want to talk! :)
+Hi! I'm Jackson and I'm a DPhil in the Condensed Matter Physics Programme. When not lab, pentathlon. When not pentathlon, unknown. When unknown, &lt;redacted&gt;. Feel free to reach out with questions or if you ever just want to talk! :)
