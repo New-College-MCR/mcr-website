@@ -31,7 +31,7 @@ New College is home to a vast garden, supporting all sorts of flora and fauna on
 
 ## Clore Music Studios
 
-For those interested in booking one of the Clore rooms for instrument/ singing practice, enter this [link](https://intranet.new.ox.ac.uk/secure/booking2/venue.asp?tid=1).
+For those interested in booking one of the Clore rooms for instrument/ singing practice, enter this [link](https://scheduler.new.ox.ac.uk/Web/dashboard.php).
 
 Click on the room that best suits your purposes and book in via the booking system on the website. It is all nice and clear, and there is even a map so that you can find your room. Most rooms are equipped with particularly sexy grand Steinways.
 
