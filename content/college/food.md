@@ -48,6 +48,6 @@ In addition, the Tutor for Graduates has separate High Table dining rights and o
 
 ## Eating Elsewhere
 
-For those who like to self-cater, all graduate residences come equipped with some variety of kitchen; the kitchens at the sports ground buildings and at Warham House are especially spacious compared to other accommodation around Oxford. There are a number of supermarkets within walking distance from college. Both Tesco Metro and Sainsbury's Local on Magdalen Street are perhaps the most convenient and well stocked. There is a larger Sainsbury's in the Westgate Center, a 10-15 minute walk from Weston. Several other supermarkets can be found across Magdalen Bridge on Cowley Road and St Clement's Street.
+For those who like to self-cater, all graduate residences come equipped with some variety of kitchen; the kitchens at the sports ground buildings and at Warham House are especially spacious compared to other accommodation around Oxford. There are a number of supermarkets within walking distance from college.
 
 For evenings when you want to splurge, Oxford has an amazing variety of restaurants, many of which are hidden in various parts of the city. To assist in finding the right place, OUSU (Oxford's undergraduate student government) distributes a guide that includes reviews of restaurants, pubs, and even kebab vans. These are typically handed out at Freshers' Fair, which is held before the beginning of Michaelmas Term each year.
