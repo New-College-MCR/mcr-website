@@ -2,7 +2,7 @@
 title: "Tallulah Stephens Skeete (she/they)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/TS.jpeg"
+image: "images/team/TS.jpg"
 jobtitle: "Social Secretary"
 linkedinurl: mcr.social@new.ox.ac.uk
 promoted: true

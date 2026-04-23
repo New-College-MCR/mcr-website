@@ -2,7 +2,7 @@
 title: "Fatemeh Moussavi-Pourgharbi (she/her)"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/FM.jpeg"
+image: "images/team/FM.jpg"
 jobtitle: "Disability Rep"
 linkedinurl: fatemeh.moussavi-pourgharbi@ndm.ox.ac.uk
 promoted: true
