@@ -29,8 +29,7 @@ Information on what New College Library and Archives provide can be found [here]
 
 
 ## Suspension
-Information on the suspension procedure can be found [here](https://www.new.ox.ac.uk/sites/default/files/2019-08/Suspension%20policy%202019.pdf). You may discuss this as an option through all of the same channels detailed above. Please note that welfare resources are still available to suspended students.
-
+Information on the suspension procedure can be found [here](https://www.new.ox.ac.uk/sites/default/files/2024-01/Suspension%20policy%202023.pdf). You may discuss this as an option through all of the same channels detailed above. Please note that welfare resources are still available to suspended students.
 
 
 
