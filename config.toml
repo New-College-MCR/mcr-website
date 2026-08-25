@@ -19,11 +19,11 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo.svg"
-    mobile_height = "45px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "50px"
-    alt = "New College MCR"
+    mobile = "images/logo/logo-mobile.png"
+    mobile_height = "50px"
+    desktop = "images/logo/logo.png"
+    desktop_height = "70px"
+    alt = "New College Oxford Middle Common Room"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
