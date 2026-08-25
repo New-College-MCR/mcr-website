@@ -6,16 +6,16 @@ draft: false
 weight: 2
 ---
 
-Nothing is scarier than having an emergency and being short on money, or having a broken bike or a laptop. 
+Nothing is scarier than having an emergency and being short on money, or having a broken laptop. 
 
-- [Bike Borrowing Scheme](#bike-borrowing-scheme)
+<!-- - [Bike Borrowing Scheme](#bike-borrowing-scheme) -->
 - [Emergency Laptop Borrowing Scheme](#emergency-laptop-borrowing-scheme)
   - [How to get them](#how-to-get-them)
   - [Conditions](#conditions)
 - [Solidarity Fund](#solidarity-fund)
 - [Emergency Funding](#emergency-funding)
 
-## Bike Borrowing Scheme
+<!-- ## Bike Borrowing Scheme -->
 
 ## Emergency Laptop Borrowing Scheme
 ### How to get them
