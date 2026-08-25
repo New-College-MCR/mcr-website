@@ -11,7 +11,7 @@ New College typically accommodates most of its graduates for their first year, w
 - [Living in college](#living-in-college)
   - [Weston buildings](#weston-buildings)
 - [Graduate Housing Ballot](#graduate-housing-ballot)
-- [Weston Lodge](#weston-lodge)
+- [Weston Lodge Opening Times](#weston-lodge-opening-times)
 
 ## Living in college
 
@@ -35,18 +35,6 @@ Whilst it is generally not encouraged, it is possible if necessary to withdraw f
 For questions about the ballot itself, feel free to contact the MCR secretary. For any questions about accommodation, your best bet is to contact college (Emily Meeson) directly, although the MCR house officer will be happy to help if possible.
 
 
-## Weston Lodge
-
-Opening Times
+## Weston Lodge Opening Times
 
 The Weston lodge operates standard opening hours during term time (weeks 0-9) and remains open outside of term with alternative opening hours. During the college closure (Christmas and two weeks in August) the lodge is closed as well. The main lodge remains open 24/7 throughout the year.
-
-Opening times during term time (weeks 0-9)
-
-- Sunday: 10am - 3pm
-- Monday: 8am - 9:30pm
-- Tuesday: 8am - 9:30pm
-- Wednesday: 8am - 12am
-- Thursday: 8am - 12am
-- Friday: 8am - 12am
-- Saturday: 12noon - 12am
